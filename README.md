@@ -1,5 +1,5 @@
-# 2-semester-project
-**M.Ammad Tariq**
+# 2-semester-project 
+**M.Ammad Tariq**<br>
 this is my second semester projrct of programming fundamental (UCP).
-## Project
+## Project.<br>
 a smart learner planner using GUI.
